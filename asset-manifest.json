@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf94f3f5.css",
+    "main.js": "/static/js/main.36af67f0.js",
+    "static/js/787.f1519137.chunk.js": "/static/js/787.f1519137.chunk.js",
+    "static/media/laser-cut-details.jpg": "/static/media/laser-cut-details.724c525cb044afd57dbe.jpg",
+    "static/media/projectBack.png": "/static/media/projectBack.d9a6b8067920f7e00a47.png",
+    "static/media/Glsses-VR.png": "/static/media/Glsses-VR.2f01acde8c3f20dc00ae.png",
+    "static/media/protophoto.jpg": "/static/media/protophoto.ffa7f6938f715effd62f.jpg",
+    "static/media/auth.jpg": "/static/media/auth.89d1cf5a6c7f5e791276.jpg",
+    "static/media/Belarus.jpg": "/static/media/Belarus.264d6ebd64ec009d0a74.jpg",
+    "static/media/Belarus-3.jpg": "/static/media/Belarus-3.dbb0ef5b067583f47739.jpg",
+    "static/media/razrab2.jpg": "/static/media/razrab2.5b2d6986c6769ad2a6e9.jpg",
+    "static/media/Belarus-1.jpg": "/static/media/Belarus-1.5bf92e3d471c1820912e.jpg",
+    "static/media/SGAU.png": "/static/media/SGAU.72599c13e8ea6a953a45.png",
+    "static/media/Belarus-2.jpg": "/static/media/Belarus-2.dc405f08018b36cb1652.jpg",
+    "static/media/ar.png": "/static/media/ar.59a2957bfae6b3c6e73e.png",
+    "static/media/Kvantorium.png": "/static/media/Kvantorium.2f4b58b4d643ac4c52db.png",
+    "static/media/vr.png": "/static/media/vr.de8611fcea8950eb8600.png",
+    "static/media/as_logo.png": "/static/media/as_logo.c22ca303fdd997a0330e.png",
+    "static/media/Sector-dt.png": "/static/media/Sector-dt.0c683887a6723a23df47.png",
+    "static/media/logo.png": "/static/media/logo.f6f571e177683448400b.png",
+    "static/media/mail-link.png": "/static/media/mail-link.82241abf43ffcbc6b2cb.png",
+    "static/media/agroboty.jpg": "/static/media/agroboty.4c8560635b9adb2ee809.jpg",
+    "static/media/rostselmash.png": "/static/media/rostselmash.0ba4d4921e324475a05b.png",
+    "static/media/telegam-link.png": "/static/media/telegam-link.3a4db1ccedd334be9e78.png",
+    "static/media/vk-link.png": "/static/media/vk-link.10ddfc35ce6ed84248c5.png",
+    "static/media/Phone-link.png": "/static/media/Phone-link.b8502a7c729fe1d7e12a.png",
+    "static/media/ertelecom-logo-800.png": "/static/media/ertelecom-logo-800.b52b8f3b8f6b0fafa4f1.png",
+    "static/media/logo_MON.png": "/static/media/logo_MON.97eabc944868115d78ee.png",
+    "static/media/head_logo_fasie.png": "/static/media/head_logo_fasie.60c0dc50a07dc14f0cd1.png",
+    "static/media/Kirovsky_Zavod_Logo.svg": "/static/media/Kirovsky_Zavod_Logo.cb65e9a5ae77e19665ccf033ee269554.svg",
+    "index.html": "/index.html",
+    "main.bf94f3f5.css.map": "/static/css/main.bf94f3f5.css.map",
+    "main.36af67f0.js.map": "/static/js/main.36af67f0.js.map",
+    "787.f1519137.chunk.js.map": "/static/js/787.f1519137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf94f3f5.css",
+    "static/js/main.36af67f0.js"
+  ]
+}
